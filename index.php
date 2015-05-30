@@ -1,3 +1,3 @@
 <?php
-	echo 'HOla app empresariales';
+	echo 'Hola app' .$.GET["nombre"].' - empresariales';
 ?>
